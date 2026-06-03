@@ -28,3 +28,76 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuki-tech-dev&theme=dark" alt="GitHub Streak" />
 </p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,docker,ros,cs,ts,postgres,dotnet,github,git" />
+</p>
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="250" valign="top">
+      <h4>Backend</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ruby,rails,cs,dotnet" />
+      </a>
+    </td>
+    <td align="center" width="250" valign="top">
+      <h4>Database</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250" valign="top">
+      <h4>Robotics / Dev</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ros,ts" />
+      </a>
+    </td>
+    <td align="center" width="250" valign="top">
+      <h4>Tool</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,git,github" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="380" valign="top">
+      <h4>🤖 Robotics & Physical AI</h4>
+      <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-FFCC00?style=for-the-badge&logo=ubisoft&logoColor=black" width="40" />
+      <img src="https://img.shields.io/badge/-005CAF?style=for-the-badge&logo=industry&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-E60012?style=for-the-badge&logo=toyota&logoColor=white" width="40" />
+    </td>
+    <td align="center" width="380" valign="top">
+      <h4>🕹️ Industrial Automation (PLC)</h4>
+      <img src="https://img.shields.io/badge/-ED1C24?style=for-the-badge&logo=mitsubishi&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-1A3A83?style=for-the-badge&logo=windows&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-008080?style=for-the-badge&logo=screen&logoColor=white" width="40" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="380" valign="top">
+      <h4>📐 Mechanical & PCB CAD</h4>
+      <img src="https://img.shields.io/badge/-DC143C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-008080?style=for-the-badge&logo=autodesk&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-1A2C5A?style=for-the-badge&logo=kicad&weight=bold&logoColor=white" width="40" />
+    </td>
+    <td align="center" width="380" valign="top">
+      <h4>💻 Web Dev & Tools</h4>
+      <img src="https://img.shields.io/badge/-CC342D?style=for-the-badge&logo=ruby&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="40" />
+      <img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="40" />
+    </td>
+  </tr>
+</table>
