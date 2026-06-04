@@ -91,6 +91,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-DC143C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="40" />
       <img src="https://img.shields.io/badge/-008080?style=for-the-badge&logo=autodesk&logoColor=white" width="40" />
       <img src="https://img.shields.io/badge/-1A2C5A?style=for-the-badge&logo=kicad&weight=bold&logoColor=white" width="40" />
+      <img width="40" height="40" alt="gtdesighner" src="https://github.com/user-attachments/assets/679436d6-9a37-442e-a6a3-3095a1496757" />
+      <img width="40" height="40" alt="icad" src="https://github.com/user-attachments/assets/ab6bf0bb-483b-40a5-b708-470b9961d493" />
     </td>
     <td align="center" width="380" valign="top">
       <h4>💻 Web Dev & Tools</h4>
