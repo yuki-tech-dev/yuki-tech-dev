@@ -1,4 +1,4 @@
-<img width="150" height="150" alt="gemini-svg" src="https://github.com/user-attachments/assets/5b397a3d-8bdd-4b24-981a-60fd9684ae91" />## Hi there 👋
+## Hi there 👋
 
 <!--
 **yuki-tech-dev/yuki-tech-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
       <img width="40" height="40" alt="gxworks3-removebg-preview" src="https://github.com/user-attachments/assets/b1dbb930-678b-42a9-a14b-8e58107aa205" />
       <img width="80" height="80" alt="icad-removebg-preview" src="https://github.com/user-attachments/assets/95bef221-a924-4e86-930f-ba36a4faa505" />
       <img width="40" height="40" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/e0ced201-90d3-47d0-ab4f-9d89044aa63d" />
-　    <img width="150" height="150" alt="gemini-svg" src="https://github.com/user-attachments/assets/519c4d9b-3748-4d9d-accb-d850e19bcb64" />
+　    <img width="40" height="40" alt="gemini-svg" src="https://github.com/user-attachments/assets/519c4d9b-3748-4d9d-accb-d850e19bcb64" />
     </td>
     <td align="center" width="380" valign="top">
       <h4>💻 Web Dev & Tools</h4>
