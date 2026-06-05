@@ -97,26 +97,7 @@ Here are some ideas to get you started:
       <img width="40" height="40" alt="gxworks3-removebg-preview" src="https://github.com/user-attachments/assets/b1dbb930-678b-42a9-a14b-8e58107aa205" />
       <img width="80" height="80" alt="icad-removebg-preview" src="https://github.com/user-attachments/assets/95bef221-a924-4e86-930f-ba36a4faa505" />
       <img width="40" height="40" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/e0ced201-90d3-47d0-ab4f-9d89044aa63d" />
-      ![Uploading gemini-svg.<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
-  <rect x="95" y="95" width="310" height="310" rx="60" ry="60" fill="#E42323" />
-  
-  <path d="M 285 95 L 405 215 L 405 405 L 285 405 Z" fill="#000000" opacity="0.08" />
-  <path d="M 95 95 L 285 95 L 95 285 Z" fill="#FFFFFF" opacity="0.08" />
-
-  <g fill="none" stroke="#000000" stroke-width="12" stroke-linecap="square" opacity="0.15" transform="translate(3, 5)">
-    <path d="M 115 180 L 265 180 M 190 180 L 190 320 L 265 320" />
-    <path d="M 265 155 L 265 205 M 295 155 L 295 205 M 295 180 L 385 180" />
-    <path d="M 265 295 L 265 345 M 295 295 L 295 345 M 295 320 L 385 320" />
-  </g>
-
-  <g fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="square">
-    <path d="M 115 180 L 265 180 M 190 180 L 190 320 L 265 320" />
-    <path d="M 265 155 L 265 205 M 295 155 L 295 205 M 295 180 L 385 180" />
-    <path d="M 265 295 L 265 345 M 295 295 L 295 345 M 295 320 L 385 320" />
-  </g>
-</svg>
-svg…]()
-
+　    <img width="150" height="150" alt="gemini-svg" src="https://github.com/user-attachments/assets/519c4d9b-3748-4d9d-accb-d850e19bcb64" />
     </td>
     <td align="center" width="380" valign="top">
       <h4>💻 Web Dev & Tools</h4>
