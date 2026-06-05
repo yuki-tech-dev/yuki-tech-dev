@@ -95,7 +95,8 @@ Here are some ideas to get you started:
       <img width="40" height="40" alt="icad" src="https://github.com/user-attachments/assets/ab6bf0bb-483b-40a5-b708-470b9961d493" />
       <img width="40" height="40" alt="gtdesighner-removebg-preview" src="https://github.com/user-attachments/assets/64c0d844-c9fa-4bf0-b69a-1e90f3451590" />
       <img width="40" height="40" alt="gxworks3-removebg-preview" src="https://github.com/user-attachments/assets/b1dbb930-678b-42a9-a14b-8e58107aa205" />
-      <img width="40" height="40" alt="icad-removebg-preview" src="https://github.com/user-attachments/assets/95bef221-a924-4e86-930f-ba36a4faa505" />
+      <img width="80" height="80" alt="icad-removebg-preview" src="https://github.com/user-attachments/assets/95bef221-a924-4e86-930f-ba36a4faa505" />
+      <img width="40" height="40" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/e0ced201-90d3-47d0-ab4f-9d89044aa63d" />
     </td>
     <td align="center" width="380" valign="top">
       <h4>💻 Web Dev & Tools</h4>
