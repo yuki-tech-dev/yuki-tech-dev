@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,docker,ros,cs,ts,postgres,dotnet,github,git" />
-  <img width="300" height="300" alt="icon-2-icad" src="https://github.com/user-attachments/assets/646913be-142b-4164-ba1e-dd0857080756" />
-  <img width="300" height="300" alt="roboguide" src="https://github.com/user-attachments/assets/b0746213-88ce-4cd2-b7a2-b886fa9da04d" />
-  <img width="300" height="300" alt="icon-1-gxworks3" src="https://github.com/user-attachments/assets/9e556504-541f-4864-91b1-628695f1913b" />
+  <img width="48" height="48" alt="icon-2-icad" src="https://github.com/user-attachments/assets/646913be-142b-4164-ba1e-dd0857080756" />
+  <img width="48" height="48" alt="roboguide" src="https://github.com/user-attachments/assets/b0746213-88ce-4cd2-b7a2-b886fa9da04d" />
+  <img width="48" height="48" alt="icon-1-gxworks3" src="https://github.com/user-attachments/assets/9e556504-541f-4864-91b1-628695f1913b" />
 </p>
 
 
