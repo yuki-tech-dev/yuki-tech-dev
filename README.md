@@ -42,6 +42,7 @@ Here are some ideas to get you started:
       <h4>Backend</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=ruby,rails,cs,dotnet" />
+        <img width="40" height="40" alt="222gxworks3-removebg-preview" src="https://github.com/user-attachments/assets/2a8ca860-9caa-4320-9cd1-c50b877e55b7" />
       </a>
     </td>
     <td align="center" width="250" valign="top">
@@ -98,7 +99,6 @@ Here are some ideas to get you started:
       <img width="80" height="80" alt="icad-removebg-preview" src="https://github.com/user-attachments/assets/95bef221-a924-4e86-930f-ba36a4faa505" />
       <img width="40" height="40" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/e0ced201-90d3-47d0-ab4f-9d89044aa63d" />
 　    <img width="40" height="40" alt="gemini-svg" src="https://github.com/user-attachments/assets/519c4d9b-3748-4d9d-accb-d850e19bcb64" />
-      <img width="40" height="40" alt="222gxworks3-removebg-preview" src="https://github.com/user-attachments/assets/2a8ca860-9caa-4320-9cd1-c50b877e55b7" />
     </td>
     <td align="center" width="380" valign="top">
       <h4>💻 Web Dev & Tools</h4>
