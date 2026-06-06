@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,docker,ros,cs,ts,postgres,dotnet,github,git" />
-  <img width="40" height="40" alt="222gxworks3-removebg-preview" src="https://github.com/user-attachments/assets/2a8ca860-9caa-4320-9cd1-c50b877e55b7" />
+  <img width="50" height="50" alt="222gxworks3-removebg-preview" src="https://github.com/user-attachments/assets/2a8ca860-9caa-4320-9cd1-c50b877e55b7" />
 </p>
 
 
