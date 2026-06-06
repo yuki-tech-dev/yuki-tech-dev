@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,docker,ros,cs,ts,postgres,dotnet,github,git" />
   <img width="48" height="48" alt="222gxworks3-removebg-preview" src="https://github.com/user-attachments/assets/2a8ca860-9caa-4320-9cd1-c50b877e55b7" />
+  <img width="300" height="300" alt="roboguide" src="https://github.com/user-attachments/assets/c46a5a9b-e15a-4a18-b810-0d24bea41eeb" />
 </p>
 
 
