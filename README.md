@@ -38,7 +38,11 @@ Here are some ideas to get you started:
   <img width="48" height="48" alt="icon-1-gxworks3" src="https://github.com/user-attachments/assets/9e556504-541f-4864-91b1-628695f1913b" />
   <img width="48" height="48" alt="solidworks" src="https://github.com/user-attachments/assets/874ee93a-6af9-4ff2-be6f-3b232d09aa7f" />
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,ts,lua,bash,matlab,octave,html,css,tailwind,postgres,ros,arduino,raspberrypi,opencv,blender,git,github,vscode,docker,cmake,linux,ubuntu" />
+  </a>
+</p>
 
 <table align="center">
   <tr>
