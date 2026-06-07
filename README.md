@@ -79,7 +79,6 @@ Here are some ideas to get you started:
 
 
 
-
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="left" width="400" valign="top" style="border: none; padding: 20px;">
@@ -87,67 +86,35 @@ Here are some ideas to get you started:
       <img src="https://skillicons.dev/icons?i=ros,opencv" />
     </td>
     <td align="left" width="400" valign="top" style="border: none; padding: 20px;">
-      <h4>⚡ Embedded & Hardware</h4>
-      <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,blender" /><br>
-      <img width="48" height="48" alt="solidworks" src="https://github.com/user-attachments/assets/874ee93a-6af9-4ff2-be6f-3b232d09aa7f" />
-      <img width="48" height="48" alt="roboguide" src="https://github.com/user-attachments/assets/b0746213-88ce-4cd2-b7a2-b886fa9da04d" />
-      <img width="48" height="48" alt="icon-2-icad" src="https://github.com/user-attachments/assets/646913be-142b-4164-ba1e-dd0857080756" />
-      <img width="48" height="48" alt="icon-1-gxworks3" src="https://github.com/user-attachments/assets/9e556504-541f-4864-91b1-628695f1913b" />
+      <h4>📐 CAD & Design</h4>
+      <p>
+        <img width="48" height="48" alt="solidworks" src="https://github.com/user-attachments/assets/874ee93a-6af9-4ff2-be6f-3b232d09aa7f" style="vertical-align: middle;" />
+        <img width="48" height="48" alt="icon-2-icad" src="https://github.com/user-attachments/assets/646913be-142b-4164-ba1e-dd0857080756" style="vertical-align: middle;" />
+      </p>
     </td>
   </tr>
   <tr style="border: none;">
+    <td align="left" width="400" valign="top" style="border: none; padding: 20px;">
+      <h4>⚡ Embedded & Industrial</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,blender" style="vertical-align: middle;" />
+        <img width="48" height="48" alt="roboguide" src="https://github.com/user-attachments/assets/b0746213-88ce-4cd2-b7a2-b886fa9da04d" style="vertical-align: middle;" />
+        <img width="48" height="48" alt="icon-1-gxworks3" src="https://github.com/user-attachments/assets/9e556504-541f-4864-91b1-628695f1913b" style="vertical-align: middle;" />
+      </p>
+    </td>
     <td align="left" width="400" valign="top" style="border: none; padding: 20px;">
       <h4>💻 Languages & Core</h4>
       <img src="https://skillicons.dev/icons?i=cpp,py,cs,ts,lua,bash,matlab,octave" />
     </td>
+  </tr>
+  <tr style="border: none;">
     <td align="left" width="400" valign="top" style="border: none; padding: 20px;">
       <h4>🌐 Backend & Web</h4>
       <img src="https://skillicons.dev/icons?i=ruby,rails,dotnet,postgres,html,css,tailwind" />
     </td>
-  </tr>
-  <tr style="border: none;">
     <td align="left" width="400" valign="top" style="border: none; padding: 20px;">
       <h4>🛠️ Tools & DevOps</h4>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,cmake,linux,ubuntu" />
     </td>
-    <td align="left" width="400" valign="top" style="border: none; padding: 20px;">
-      </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="left">
-  
-  <h3>🤖 Robotics & Computer Vision</h3>
-  <img src="https://skillicons.dev/icons?i=ros,opencv" />
-
-  <h3>⚡ Embedded & Hardware</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,blender" />
-    <img width="48" height="48" alt="solidworks" src="https://github.com/user-attachments/assets/874ee93a-6af9-4ff2-be6f-3b232d09aa7f" />
-    <img width="48" height="48" alt="roboguide" src="https://github.com/user-attachments/assets/b0746213-88ce-4cd2-b7a2-b886fa9da04d" />
-    <img width="48" height="48" alt="icon-2-icad" src="https://github.com/user-attachments/assets/646913be-142b-4164-ba1e-dd0857080756" />
-    <img width="48" height="48" alt="icon-1-gxworks3" src="https://github.com/user-attachments/assets/9e556504-541f-4864-91b1-628695f1913b" />
-  </p>
-
-  <h3>💻 Languages & Core</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,py,cs,ts,lua,bash,matlab,octave" />
-
-  <h3>🌐 Backend & Web</h3>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,dotnet,postgres,html,css,tailwind" />
-
-  <h3>🛠️ Tools & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,cmake,linux,ubuntu" />
-
-</div>
