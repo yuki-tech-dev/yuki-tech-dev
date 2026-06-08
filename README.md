@@ -37,6 +37,10 @@ Here are some ideas to get you started:
   <img width="48" height="48" alt="roboguide" src="https://github.com/user-attachments/assets/b0746213-88ce-4cd2-b7a2-b886fa9da04d" />
   <img width="48" height="48" alt="icon-1-gxworks3" src="https://github.com/user-attachments/assets/9e556504-541f-4864-91b1-628695f1913b" />
   <img width="48" height="48" alt="solidworks" src="https://github.com/user-attachments/assets/874ee93a-6af9-4ff2-be6f-3b232d09aa7f" />
+  <img width="48" height="48" alt="icon-5-yaskawa" src="https://github.com/user-attachments/assets/e77263d4-ca07-4bdb-a402-32ace4a0f48e" />
+  <img width="48" height="48" alt="icon-7-got" src="https://github.com/user-attachments/assets/3a25eaf2-ba50-4d0b-a1e9-4f87a4ff95e9" />
+  <img width="48" height="48" alt="icon-6-mitsubishirobot" src="https://github.com/user-attachments/assets/74491836-fe76-4c50-bffe-3dfa9d524b9d" />
+
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
