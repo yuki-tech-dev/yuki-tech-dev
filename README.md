@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img width="48" height="48" alt="icon-5-yaskawa" src="https://github.com/user-attachments/assets/e77263d4-ca07-4bdb-a402-32ace4a0f48e" />
   <img width="48" height="48" alt="icon-7-got" src="https://github.com/user-attachments/assets/3a25eaf2-ba50-4d0b-a1e9-4f87a4ff95e9" />
   <img width="48" height="48" alt="icon-6-mitsubishirobot" src="https://github.com/user-attachments/assets/74491836-fe76-4c50-bffe-3dfa9d524b9d" />
-
+  <img width="48" height="48" alt="icon-8-densowave" src="https://github.com/user-attachments/assets/187b1549-d88f-44cf-ae71-69f984fedbd0" />
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
