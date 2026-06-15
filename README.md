@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p>
+  <img src="gattsu.svg" width="100%">
+</p>
 ### 📊 GitHub Stats
 
 <p align="center">
