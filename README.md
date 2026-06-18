@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <p>
   <img src="assets/gattsu.svg" width="100%">
+  <li>I am a **Production Technology Development Engineer** in the automotive industry, working at the forefront of Factory Automation (FA). My expertise spans mechanical and electrical design, PLC control, and system integration utilizing industrial robotics.</li>
+  <li>Currently, I am passionate about fusing my extensive background in control technology and FA with modern web and software engineering—including **ROS2, Computer Vision (OpenCV), and AI**—to build next-generation, intelligent automation systems.</li>
 </p>
 
 ### 📊 GitHub Stats
