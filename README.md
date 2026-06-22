@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   </tr>
   <tr style="border: none;">
     <td align="left" width="400" valign="top" style="border: none; padding: 20px;">
-      <h4>🌐 Backend & Web</h4>
+      <h4>🌐 Backend & Web <em>(I'm currently learning...)</em></h4>
       <p style="display: flex; align-items: center; gap: 8px; margin: 0; flex-wrap: wrap;">
         <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,ts" />
         <img src="https://skillicons.dev/icons?i=postgres,html,css,tailwind,dotnet" />
