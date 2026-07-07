@@ -89,8 +89,8 @@ Here are some ideas to get you started:
     <td align="left" width="400" valign="top" style="border: none; padding: 20px;">
       <h4>🌐 Backend & Web <em>(I'm currently learning...)</em></h4>
       <p style="display: flex; align-items: center; gap: 8px; margin: 0; flex-wrap: wrap;">
-        <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,ts" />
-        <img src="https://skillicons.dev/icons?i=postgres,html,css,tailwind,dotnet" />
+        <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,ts,postgres,mysql" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,dotnet" />
         <img width="45" height="45" alt="aspnet" src="assets/images/icon-15-aspnet.png" style="border-radius: 6px;" />
       </p>
     </td>
